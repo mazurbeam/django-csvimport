@@ -36,7 +36,7 @@ setup(
     keywords="CVS import django fixture",
     author="Ed Crewe",
     author_email="edmundcrewe@gmail.com",
-    url="https://github.com/edcrewe/django-csvimport",
+    url="https://github.com/mazurbeam/django-csvimport",
     license="Apache",
     packages=["csvimport"],
     include_package_data=True,
